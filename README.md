@@ -2,7 +2,7 @@
 
 # Hi, I'm Guilherme 👋
 
-[ANIMAÇÃO DE TEXTO AQUI]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Frontend+Engineer;8%2B+years+in+the+JavaScript+ecosystem;React+%C2%B7+Next.js+%C2%B7+TypeScript;Frontend+Architecture+%26+AI-assisted+Development)](https://git.io/typing-svg)
 
 Senior Frontend Engineer with 8+ years in the JavaScript ecosystem.
 
@@ -22,16 +22,28 @@ performance, maintainability and developer experience.
 ## 🛠️ Tech Stack
 
 ### Frontend
-React · Next.js · TypeScript · JavaScript · React Native · Tailwind CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,vite" />
+</p>
 
 ### Backend
-Node.js · NestJS · REST APIs · GraphQL
 
-### Engineering
-Git · Docker · Terraform · Datadog · Jest · Storybook
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb,redis" />
+</p>
 
-### AI
-OpenAI · Claude · Cursor · Codex · SDD · Prompt Engineering
+### Engineering & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,jest,figma,vscode" />
+</p>
+
+### AI & Modern Development
+
+<p>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=chatgpt,claude,githubcopilot,datadog,storybook,githubactions" />
+</p>
 
 ## 🚀 Featured Work
 
@@ -48,9 +60,13 @@ and the broader JavaScript ecosystem.
 
 ## 📊 GitHub
 
-[ESTATÍSTICAS DO GITHUB AQUI]
+<div align="center">
 
-[GRÁFICO DE LINGUAGENS AQUI]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiduck&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiduck&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🐍 Contributions
 
