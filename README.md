@@ -58,16 +58,36 @@ Projects exploring AI, automation and modern TypeScript applications.
 Experiments and applications built with React, Next.js, TypeScript
 and the broader JavaScript ecosystem.
 
-## 📊 GitHub
+## 🚀 Featured Projects
 
-<div align="center">
+- **[Jungle Gaming](https://github.com/guiduck/jungle-gaming)** — Real-time multiplayer crash game built with React, TypeScript, NestJS, WebSockets, RabbitMQ and PostgreSQL.
+- **[IA Provado](https://github.com/guiduck/ia-provado)** — AI-focused project exploring modern web development and intelligent workflows.
+- **[Job Hunt](https://github.com/guiduck/job-hunt)** — Platform for discovering and organizing job and freelance opportunities with automation and AI-assisted workflows.
+- **[Tic Tac Toe](https://github.com/guiduck/tic-tac-toe)** — React game exploring scalable hooks, immutable game entities and a reusable design system.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiduck&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Activity
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiduck&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
+<div align="left">
+  <img
+    width="85%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiduck&theme=github_dark"
+    alt="GitHub Activity"
+  />
 </div>
 
 ## 🐍 Contributions
 
-[ANIMAÇÃO DA COBRINHA AQUI]
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/guiduck/guiduck/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/guiduck/guiduck/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/guiduck/guiduck/output/github-contribution-grid-snake.svg"
+  />
+</picture>
